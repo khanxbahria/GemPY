@@ -3,4 +3,4 @@ GemPY is a simple script that exploits jungroup offers, allowing to get gems (fo
 
 ## Installation
 Download the latest release here: <br/>
-[Releases]()
+
